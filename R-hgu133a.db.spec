@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          2.6.3
-Release:          1
+Release:          2
 Summary:          Affymetrix Human Genome U133 Set annotation data (chip hgu133a)
 Group:            Sciences/Mathematics
 License:          Artistic-2.0
